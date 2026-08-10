@@ -5,8 +5,8 @@
 
 ## Analytical objective:
   the analytical objective for the analysis are the following  
-    * **Network Performance:** Evaluate how restaurant performance varies across countries, cities, and price tiers.
-    * **Customer Engagement:** Identify the key factors that drive higher customer engagement based on votes.
-    * **Operational Effectiveness:** Assess if online delivery and table booking correlate with better performance metrics.
-    * **Commercial Potential:** Pinpoint the price segments and categories showing the strongest pricing and engagement combinations.
-    * **Rating Coverage Gap:** Map the concentration and operational traits of the 22.5% unrated restaurants.
+    * **Network Performance:** Evaluate how restaurant performance varies across countries, cities, and price tiers.  
+    * **Customer Engagement:** Identify the key factors that drive higher customer engagement based on votes.  
+    * **Operational Effectiveness:** Assess if online delivery and table booking correlate with better performance metrics.  
+    * **Commercial Potential:** Pinpoint the price segments and categories showing the strongest pricing and engagement combinations.  
+    * **Rating Coverage Gap:** Map the concentration and operational traits of the 22.5% unrated restaurants.  
