@@ -2,7 +2,7 @@
 
 **Goal:** Conduct an end-to-end performance and operational analysis of Zomato's restaurant network, identify opportunities to improve customer engagement, visibility, and operational adoption, and prioritize the unrated restaurant segment representing 22.5% of the dataset.  
 
-[Executive Overview](Zomato BI SC/Executive overview BI.png)
+<img src="Zomato BI SC/Executive overview BI.png" alt="Executive Overview" width="100%">
 
 **Description:** The project focused on simulating a real-world business analytics engagement by analyzing a dataset of 9,551 restaurants across 141 cities and 15 countries to investigate how characteristics like online delivery, table booking, price range, and location relate to performance. The project involved structured data analysis across five major business areas, using SQL for data cleaning, validation, restaurant segmentation, and city-level operational comparisons. The analytical findings were then translated into a strategic growth plan with actionable business recommendations designed to reduce the unrated backlog, optimize delivery onboarding, expand table-booking adoption, and implement targeted quality-improvement programs.  
 
